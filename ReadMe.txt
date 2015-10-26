@@ -14,4 +14,4 @@ Version Outline:
     v3.0:
         -will scrape data for available positions in fields
         -will scrape data for annual graduates
-        -will modify graphs and calulations based upon chance of employment per year
+        -will modify graphs and calculations based upon chance of employment per year
